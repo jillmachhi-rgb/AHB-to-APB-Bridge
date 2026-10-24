@@ -22,5 +22,3 @@ Write transaction
 Reset operation
 Randomized transactions
 
-Expected Outcome
-A reusable UVM testbench designed to check bridge functionality, data correctness, and protocol behavior.
